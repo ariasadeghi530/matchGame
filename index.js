@@ -100,7 +100,7 @@ for (let j = 0; j < questionsArr.length; j++) {
       .catch(e => console.error());
   }
 }
-endGame();
+  endGame();
 
   }
 
