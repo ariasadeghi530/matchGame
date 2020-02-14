@@ -14,17 +14,11 @@ let questions = [
   ''
 ]
 
+async function 
 prompt({
-  type: 'input',
-  name: 'contestant',
-  message: playerNumQues[0]
+  
 })
 .then ( response => {
-  console.log(response.contestant)
-    prompt({
-      type: 'input',
-      name: 'panelistCount',
-      
-    })
+
 })
 
